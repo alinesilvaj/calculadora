@@ -1,4 +1,4 @@
 # calculadora
- In this project I developed a calculator using constructor function and developing a responsive interface.
+ In this project I developed a calculator using constructor function, developing a responsive interface.
 
- Neste projeto eu desenvolvi uma calculadora usando função construtora e desenvolvendo um interface responsiva.
+ Neste projeto eu desenvolvi uma calculadora usando função construtora, desenvolvendo uma interface responsiva.
